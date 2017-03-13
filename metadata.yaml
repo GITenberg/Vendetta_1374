@@ -1,5 +1,5 @@
 _repo: Vendetta_1374
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Wormeley, Katharine Prescott
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '661'
     url: http://www.gutenberg.org/2009/agents/661
     wikipedia: http://en.wikipedia.org/wiki/Katherine_Prescott_Wormeley
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -24,6 +27,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1374#Vendetta
 gutenberg_issued: '2005-10-28'
 gutenberg_type: Text
 identifiers:
